@@ -53,6 +53,11 @@ curlLhttps://www.xxxx.xxx/xxxx/xxxx/ins.php?cmd=%s
 ![image](https://user-images.githubusercontent.com/68028438/190207534-30725f9c-6817-44c4-8516-68ee0f4a3bad.png)
 
 ![image](https://user-images.githubusercontent.com/68028438/190208415-44a734c4-ed16-48ff-914e-3a5a6af8fdd4.png)
+
+![image](https://user-images.githubusercontent.com/68028438/190215666-00d9140f-2f2f-44d6-a29c-25fe43180ab9.png)
+![image](https://user-images.githubusercontent.com/68028438/190215785-58382f08-6459-4c54-9ff9-814b2972b789.png)
+
+
 ![image](https://user-images.githubusercontent.com/68028438/190208846-401e3e5f-8bef-4275-8ac8-738628f1a271.png)
 
 
